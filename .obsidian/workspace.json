@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "1c9571a1d06fb6d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cacf2b1776de4347",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fdbd8adb57a78d9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260115213437.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260115213437"
+            }
+          },
+          {
+            "id": "c67982d312d7e8f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "756f75b921e0854e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "centos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "centos"
+            }
+          },
+          {
+            "id": "92c5cace58a7f03d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
+            "id": "3d1de97e05c25a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Footprinting And Reconnaissance.md.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Footprinting And Reconnaissance.md"
+            }
+          },
+          {
+            "id": "7fb1120c56cb5750",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f3fb75d7eda1a37",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfbc90b246aadc92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2fb9d3d827646e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2daf3acc3448b6e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b862b9e7c4e7bbbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22354df8d4914828",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ab710323b94ea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "928649c223dd52f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WINDOWS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for WINDOWS"
+            }
+          },
+          {
+            "id": "8566ee3099547713",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WINDOWS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from WINDOWS"
+            }
+          },
+          {
+            "id": "c88d6591444bcd3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a9539189556c5188",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WINDOWS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of WINDOWS"
+            }
+          },
+          {
+            "id": "bd8b136ce6891650",
+            "type": "leaf",
+            "state": {
+              "type": "github-issue-controls-view",
+              "state": {},
+              "icon": "github",
+              "title": "Github Issue Controls"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "githobs:Manage a github issue": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3d1de97e05c25a63",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled",
+    "Pasted image 20260115213437.png",
+    "Pasted image 20260113144031.png",
+    "Untitled.base",
+    "centos.md",
+    "Footprinting And Reconnaissance.md.md",
+    "Untitled 1.canvas",
+    "chhotu.md",
+    "Footprinting Secand Slied.md",
+    "Pasted image 20260123142324.png",
+    "Pasted image 20260122160759.png",
+    "Pasted image 20260122133706.png",
+    "Untitled.md",
+    "short notes.md",
+    "Untitled.canvas",
+    "Pasted image 20260107134940.png",
+    "Gemini_Generated_Image_u978seu978seu978.png",
+    "Pasted image 20260115213500.png",
+    "Pasted image 20260115213419.png",
+    "Pasted image 20260112142652.png",
+    "WINDOWS.md",
+    "LINUX @.md",
+    "LINUX.md",
+    "1. Static IP Server.md",
+    "NOTES.md"
+  ]
+}
