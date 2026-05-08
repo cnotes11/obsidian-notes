@@ -1535,4 +1535,4 @@ Example: https://www.hotstar.com/Ch
 #### command:- whois <IP-ADDRESS>
    If the IP belongs to known CDN providers like Cloudflare, Akamai, AWS, etc., the site is likely using a CDN
 
-######## SECAND SLIED PR HAI 
+######## SECAND SLIED 

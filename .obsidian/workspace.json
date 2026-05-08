@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "236ae177b5fc51b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6fb6b9b66dd78d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a52833208a026a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiFi-Penetration-Testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WiFi-Penetration-Testing"
+            }
+          },
+          {
+            "id": "fd3f9d1a5424fad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The-Onion-Router.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The-Onion-Router"
+            }
+          },
+          {
+            "id": "a5584d63e92717e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB BasedProxy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WEB BasedProxy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bc46c1fab53b690",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e3c8cebba1f87dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88a3f9c4bafbd797",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "144e7487ac232279",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "3aba1024af793b9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "80f754a7af76edbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d75ec3efee99bed1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ded1191b67a788f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WINDOWS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for WINDOWS"
+            }
+          },
+          {
+            "id": "7fffcbcca532ac0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WINDOWS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from WINDOWS"
+            }
+          },
+          {
+            "id": "18cc49198cdd9486",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "12c6b48fd657211f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5a77288af5edae97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WINDOWS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of WINDOWS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2a52833208a026a8",
+  "lastOpenFiles": [
+    "WIFI.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "WiFi-Penetration-Testing.md",
+    "Untitled.base",
+    "VPN.md",
+    "VPN PROXYTOR.md",
+    "VPN VS PROXY.md",
+    "WEB BasedProxy.md",
+    "WINDOWS.md",
+    "LINUX.md",
+    "Footprinting Secand Slied.md",
+    "Footprinting And Reconnaissance.md.md",
+    "DARK WEB.md",
+    "centos.md",
+    "2026-04-14.md",
+    "The-Onion-Router.md",
+    "Pasted image 20260502154559.png",
+    "Pasted image 20260502133458.png",
+    "LINUX @.md",
+    "Gemini_Generated_Image_u978seu978seu978.png"
+  ]
+}
